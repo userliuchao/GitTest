@@ -3,6 +3,6 @@ public class Dome {
         System.out.println("这是一个测试的类");
     }
     public void run(){
-
+        System.out.println(123);
     }
 }
