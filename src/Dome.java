@@ -4,5 +4,6 @@ public class Dome {
     }
     public void run(){
         System.out.println(123);
+        System.out.println("我添加了run方法");
     }
 }
